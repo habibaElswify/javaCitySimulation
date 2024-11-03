@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.helswify.city;
 
 import java.io.BufferedReader;
