@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.helswify.buildings.taxable;
 
 import com.helswify.buildings.Building;
